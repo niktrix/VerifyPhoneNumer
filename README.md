@@ -8,10 +8,11 @@ very phone number without using any sms service
 Required Permissions
 
 
-<uses-permission android:name="android.permission.READ_SMS" />
-<uses-permission android:name="android.permission.RECEIVE_SMS" />
-<uses-permission android:name="android.permission.SEND_SMS"/>
+"android.permission.READ_SMS" 
 
+"android.permission.RECEIVE_SMS" 
+
+"android.permission.SEND_SMS"
 
 
 
